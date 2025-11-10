@@ -1,15 +1,6 @@
 # Weather App Backend 
 
 This is the backend API for the **Fidenz Full Stack Weather Application**.  
-It provides secure weather data using OpenWeatherMap API and Auth0-based JWT authentication.
-
----
-
-##  Features
-- Fetch weather data for multiple cities
-- Cache responses for 5 minutes
-- Protected routes using Auth0 JWT middleware
-- CORS enabled for frontend access
 
 ---
 
@@ -44,7 +35,7 @@ It provides secure weather data using OpenWeatherMap API and Auth0-based JWT aut
 
 4. **Run the server**
    ```bash
-   npm run dev
+   npm start
    ```
 
 ---
