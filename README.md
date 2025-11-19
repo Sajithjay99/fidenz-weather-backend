@@ -28,8 +28,8 @@ This is the backend API for the **Fidenz Full Stack Weather Application**.
 3. **Create a `.env` file** in the root folder:
    ```env
     PORT=3000
-    WEATHER_KEY=69748cf8649ce272697d004c362553ae
-    AUTH0_DOMAIN=dev-gk8papjykz6fewug.us.auth0.com
+    WEATHER_KEY= 
+    AUTH0_DOMAIN= 
     AUTH0_AUDIENCE=https://weather.api
    ```
 
